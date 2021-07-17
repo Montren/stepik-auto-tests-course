@@ -1,2 +1,2 @@
 # stepik-auto-tests-course
-Домашние задания к курсу автоматизации тестирования на Python https://stepik.org/course/575
+Это репозиторий для хранения домашних заданий к курсу автоматизации тестирования на Python https://stepik.org/course/575
